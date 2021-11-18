@@ -35,6 +35,7 @@
   
 ### technologies used:  
   
+  * CKEditor   
   * CSS   
   * Django  
   * Draw.io  
@@ -44,7 +45,6 @@
   * PostgreSQL  
   * Psycopg2  
   * Python  
-  * React  
   * Slack  
   * Visual Studio Code  
   * Zoom  

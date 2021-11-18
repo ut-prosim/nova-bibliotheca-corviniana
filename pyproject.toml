@@ -9,6 +9,7 @@ license = "proprietary"
 python = "^3.10"
 Django = "^3.2.9"
 psycopg2 = "^2.9.2"
+django-ckeditor = "^6.1.0"
 
 [tool.poetry.dev-dependencies]
 
